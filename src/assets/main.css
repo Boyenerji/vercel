@@ -1,0 +1,19 @@
+@import './base.css';
+
+#app {
+  max-width: 1280px;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: 600;
+}
+
+
+.p-menubar {
+  color: red;
+}
+
+
+.test {
+  color: red;
+}
